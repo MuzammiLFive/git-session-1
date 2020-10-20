@@ -1,3 +1,5 @@
 THis is for new branch
 Doing the second time
 end
+
+This line is added in Master branch
