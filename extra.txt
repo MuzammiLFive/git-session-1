@@ -2,8 +2,7 @@ THis is for new branch
 Doing the second time
 end
 
-<<<<<<< HEAD
 This line is added in Master branch
-=======
 This is change in new branch
->>>>>>> new-branch
+
+This Change is added to branch one
